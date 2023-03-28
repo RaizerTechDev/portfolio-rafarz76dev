@@ -593,39 +593,6 @@ section {
   justify-content: flex-start;
 }
 
-/*página do obrigado*/
-.container-contact {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  min-height: 100vh;
-  flex-direction: column;
-}
-.container-contact .text {
-  font-size: 45px;
-  color: var(--color-black);
-  text-shadow: 5px 5px 5px var(--color-grey-1);
-}
-.container-contact .paragrafo {
-  font-size: 35px;
-  color: var(--color-black);
-  margin-bottom: 50px;
-}
-.container-contact .btn {
-  padding: 15px 55px;
-  background: var(--color-grey-2);
-  text-decoration: none;
-  font-size: 18px;
-  font-weight: bold;
-  color: var(--color-black);
-  text-shadow: 5px 5px 5px var(--color-grey-1);
-  transition: all 0.5s;
-  border-radius: 16px;
-}
-.btn:hover {
-  border-radius: 26px;
-}
-
 /*Independed components*/
 .btn-con {
   display: flex;
@@ -647,8 +614,8 @@ section {
   border-radius: 30px;
 }
 .main-btn .btn-text {
-  padding: 15px 55px;
-  font-size: 30px;
+  padding: 10px 45px;
+  font-size: 25px;
   font-weight: bold;
   color: var(--color-white);
   background: var(--color-primary);
@@ -875,11 +842,6 @@ section {
   }
 }
 @media screen and (max-width: 1250px) {
-  .blogs {
-    grid-template-columns: repeat(2, 1fr);
-    margin-top: 6rem;
-  }
-
   .portfolios {
     grid-template-columns: repeat(2, 1fr);
   }
@@ -889,11 +851,7 @@ section {
   }
 }
 @media screen and (max-width: 660px) {
-  .blogs {
-    grid-template-columns: repeat(1, 1fr);
-  }
-
-  .portfolios {
+ .portfolios {
     grid-template-columns: repeat(1, 1fr);
   }
 }
