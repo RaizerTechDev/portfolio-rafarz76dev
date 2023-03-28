@@ -210,7 +210,10 @@ section {
   transform: scale(1.3); /* Aumenta quando passa o mouse*/
 }
 .header-content .right-header .btn-con {
-  transform: scale(1.2);
+  transform: scale(0.7);
+}
+.header-content .right-header .btn-con .btn-text:hover {
+  background-color: var(--color-grey-3);
 }
 /*About*/
 .about-container {
@@ -420,6 +423,10 @@ section {
 .container .main-title .btn-con {
   margin-top: 3rem;
   margin-left: 2rem;
+  transform: scale(0.7);
+}
+.container .main-title .btn-con .btn-text:hover {
+  background-color: var(--color-grey-3);
 }
 .portfolios .portfolio-item {
   position: relative;
@@ -647,6 +654,10 @@ section {
   background: var(--color-primary);
   border-radius: 16px;
   cursor: pointer;
+}
+.main-btn .btn-text:hover {
+  background-color: var(--color-secondary);
+  border: var(--color-secondary);
 }
 .main-btn .btn-icon {
   background-color: var(--color-secondary);
