@@ -486,7 +486,7 @@ section {
   transform: scale(1);
 }
 
-/*contato*/;
+/*contato*/
 .contact-content-con {
   display: flex;
   padding-top: 3.5rem;
@@ -581,31 +581,9 @@ section {
 .contact-content-con .right-contact .i-c-2 :last-child {
   margin-left: 1.5rem;
 }
-.contact-content-con .right-contact .submit-btn button {
-  padding: 15px;
-  background-color: var(--color-primary);
-  color: var(--color-white);
-  width: 20%;
+.contact-content-con .right-contact .submit-btn {
+  display: flex;
   justify-content: flex-start;
-  cursor: pointer;
-  font-size: 16px;
-  transform: scale(1.2);
-  margin-left: 3rem;
-  transition: all 1s;
-  margin-bottom: 20px;
-  border:1px solid var(--color-secondary)
-}
-.contact-content-con .right-contact .submit-btn button {
-   border-radius: 16px;
-   font-weight: bold;
-  }
-.contact-content-con .right-contact .submit-btn button:focus {
-  border-radius: 30px;
-}
-.contact-content-con .right-contact .submit-btn button:hover {
-  background: var(--color-grey-1);
-  color: var(--color-primary);
-  border-radius: 16px;
 }
 
 /*página do obrigado*/
@@ -619,10 +597,10 @@ section {
 .container-contact .text {
   font-size: 45px;
   color: var(--color-black);
-  text-shadow: 5px 5px 5px var(--color-grey-1);  
+  text-shadow: 5px 5px 5px var(--color-grey-1);
 }
 .container-contact .paragrafo {
-  font-size: 35px; 
+  font-size: 35px;
   color: var(--color-black);
   margin-bottom: 50px;
 }
@@ -633,17 +611,13 @@ section {
   font-size: 18px;
   font-weight: bold;
   color: var(--color-black);
-  text-shadow: 5px 5px 5px var(--color-grey-1);  
-  transition: all 0.5s; 
+  text-shadow: 5px 5px 5px var(--color-grey-1);
+  transition: all 0.5s;
   border-radius: 16px;
 }
 .btn:hover {
   border-radius: 26px;
 }
-
-
-
-
 
 /*Independed components*/
 .btn-con {
@@ -652,7 +626,7 @@ section {
 }
 
 .main-btn {
-  border-radius: 30px;
+  border-radius: 16px;
   color: inherit;
   font-weight: 600;
   position: relative;
@@ -662,8 +636,17 @@ section {
   align-items: center;
   overflow: hidden;
 }
+.main-btn:focus {
+  border-radius: 30px;
+}
 .main-btn .btn-text {
-  padding: 0 2rem;
+  padding: 15px 55px;
+  font-size: 30px;
+  font-weight: bold;
+  color: var(--color-white);
+  background: var(--color-primary); 
+  border-radius: 16px; 
+  cursor: pointer;
 }
 .main-btn .btn-icon {
   background-color: var(--color-secondary);
