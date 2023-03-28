@@ -644,8 +644,8 @@ section {
   font-size: 30px;
   font-weight: bold;
   color: var(--color-white);
-  background: var(--color-primary); 
-  border-radius: 16px; 
+  background: var(--color-primary);
+  border-radius: 16px;
   cursor: pointer;
 }
 .main-btn .btn-icon {
