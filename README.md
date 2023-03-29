@@ -48,20 +48,24 @@
  ---
 # Passo a Passo do Projeto:
   
- ### <img src="https://media.giphy.com/media/XwcRflO9HD0Sk6RaRM/giphy.gif" align="center" height="25" width="25"> Foram usados os seguintes métodos: 
+ ### <img src="https://media.giphy.com/media/XwcRflO9HD0Sk6RaRM/giphy.gif" align="center" height="25" width="25"> Sites `Referência` do Projeto : 
    
 - [`Fonte do Google`](https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800&display=swap)   
+
+- [`Icones-W3schools`](https://www.w3schools.com/icons/fontawesome5_icons_security.asp)
+
+- [`Formulário-formspree`](https://formspree.io/) <img src="https://media.giphy.com/media/fXQqNrqKATCNwq6zin/giphy.gif" align="center" height="35" width="35"> Para endereço de e-mail, foi adicionado o atributo replyto (isso significa apenas que você poderá responder rapidamente ao usuário que enviou originalmente por e-mail).
+   
+- [`AutoComplete-W3schools`](3schools.com/tags/att_input_autocomplete.asp) <img src="https://media.giphy.com/media/fXQqNrqKATCNwq6zin/giphy.gif" align="center" height="35" width="35"> É um atributo que especifica se um campo de entrada deve ou não ter o preenchimento automático ativado.
  
-- [`Formulário`](https://www.staticforms.xyz/)
+### <img src="https://media.giphy.com/media/XwcRflO9HD0Sk6RaRM/giphy.gif" align="center" height="25" width="25"> O projeto teve a criação do Html acrescentando:
+- `links, imagens, blocos de texto com div, # para os menus, por section, containers...`
+
+### <img src="https://media.giphy.com/media/XwcRflO9HD0Sk6RaRM/giphy.gif" align="center" height="25" width="25"> Obteve as estilizações em `css`e `scss`com algumas propriedades: 
+- `Elementos, textos, dimensões, alinhamentos, sombreamentos, transformação, transição, animação...` deixando assim o site mais elegante.  
   
-  ### <img src="https://media.giphy.com/media/XwcRflO9HD0Sk6RaRM/giphy.gif" align="center" height="25" width="25"> O projeto teve a criação de 2 `html`:
- - `index.html`
- - `obrigado.html`
-  
-### <img src="https://media.giphy.com/media/XwcRflO9HD0Sk6RaRM/giphy.gif" align="center" height="25" width="25"> Acrescentando links, imagens, blocos de texto com div, # para os menus, por section, containers; obteve as estilizações em `css`e `scss`com algumas propriedades: 
-- `Elementos, textos, dimensões, alinhamentos, sombreamentos, transformação,transição...` deixando assim o site mais elegante.  
-  
- ### <img src="https://media.giphy.com/media/XwcRflO9HD0Sk6RaRM/giphy.gif" align="center" height="25" width="25"> Foi consumido nesse projeto o @media conhecido como media-query que com a condição de especificar um equipamento, tamanho, resolução, formato, rotação, etc.   
+ ### <img src="https://media.giphy.com/media/XwcRflO9HD0Sk6RaRM/giphy.gif" align="center" height="25" width="25"> Foi consumido nesse projeto o @media conhecido como media-query que com a condição de especificar:
+ - `Um equipamento, tamanho, resolução, formato, rotação, etc.`   
   
 
 
