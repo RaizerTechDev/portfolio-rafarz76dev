@@ -31,11 +31,13 @@
 ---
 <div align="left">
    
-# Suas aplicação:
+# Suas aplicações:
 
- <img style="width: 100px" alt="Vue.js" src="https://media.giphy.com/media/VgGthkhUvGgOit7Y9i/giphy.gif">
-
----
+ <img style="width: 80px" alt="HTML" src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif">
+ 
+ <img style="width: 80px" alt="CSS" src="https://media.giphy.com/media/CEHtFH3rJ6xdhBUKIT/giphy.gif">
+ 
+ ---
 # <img src="https://media.giphy.com/media/eBqEQyWGdgSNgRVLCV/giphy.gif" align="center" height="95" width="95"> Ferramenta Do Desafio⁉
 
 <img style="width: 80px" alt="VSCode" src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif">
@@ -56,7 +58,7 @@
 
 - [`Formulário-formspree`](https://formspree.io/) <img src="https://media.giphy.com/media/fXQqNrqKATCNwq6zin/giphy.gif" align="center" height="35" width="35"> Para endereço de e-mail, foi adicionado o atributo replyto (isso significa apenas que você poderá responder rapidamente ao usuário que enviou originalmente por e-mail).
    
-- [`AutoComplete-W3schools`](3schools.com/tags/att_input_autocomplete.asp) <img src="https://media.giphy.com/media/fXQqNrqKATCNwq6zin/giphy.gif" align="center" height="35" width="35"> É um atributo que especifica se um campo de entrada deve ou não ter o preenchimento automático ativado.
+- [`AutoComplete-W3schools`](3schools.com/tags/att_input_autocomplete.asp) <img src="https://media.giphy.com/media/fXQqNrqKATCNwq6zin/giphy.gif" align="center" height="35" width="35"> É um atributo que especifica  um campo de entrada se deve ou não ter o preenchimento automático ativado.
  
 ### <img src="https://media.giphy.com/media/XwcRflO9HD0Sk6RaRM/giphy.gif" align="center" height="25" width="25"> O projeto teve a criação do Html acrescentando:
 - `links, imagens, blocos de texto com div, # para os menus, por section, containers...`
