@@ -600,6 +600,7 @@ section {
 }
 
 .main-btn {
+  padding: 0.8rem 1.1rem;
   border-radius: 16px;
   color: inherit;
   font-weight: 600;
@@ -609,13 +610,16 @@ section {
   align-self: flex-start;
   align-items: center;
   overflow: hidden;
+  border: none;
+  margin-left: -30px;
+  
 }
 .main-btn:focus {
   border-radius: 30px;
 }
 .main-btn .btn-text {
   padding: 10px 45px;
-  font-size: 25px;
+  font-size: 22px;
   font-weight: bold;
   color: var(--color-white);
   background: var(--color-primary);
@@ -851,7 +855,7 @@ section {
   }
 }
 @media screen and (max-width: 660px) {
- .portfolios {
+  .portfolios {
     grid-template-columns: repeat(1, 1fr);
   }
 }
