@@ -58,7 +58,7 @@
 
 - [`Formulário-formspree`](https://formspree.io/) <img src="https://media.giphy.com/media/fXQqNrqKATCNwq6zin/giphy.gif" align="center" height="35" width="35"> Para endereço de e-mail, foi adicionado o atributo replyto (isso significa apenas que você poderá responder rapidamente ao usuário que enviou originalmente por e-mail).
    
-- [`AutoComplete-W3schools`](3schools.com/tags/att_input_autocomplete.asp) <img src="https://media.giphy.com/media/fXQqNrqKATCNwq6zin/giphy.gif" align="center" height="35" width="35"> É um atributo que especifica  um campo de entrada se deve ou não ter o preenchimento automático ativado.
+- [`AutoComplete-W3schools`](https://www.w3schools.com/tags/att_input_autocomplete.asp) <img src="https://media.giphy.com/media/fXQqNrqKATCNwq6zin/giphy.gif" align="center" height="35" width="35"> É um atributo que especifica  um campo de entrada se deve ou não ter o preenchimento automático ativado.
  
 ### <img src="https://media.giphy.com/media/XwcRflO9HD0Sk6RaRM/giphy.gif" align="center" height="25" width="25"> O projeto teve a criação do Html acrescentando:
 - `links, imagens, blocos de texto com div, # para os menus, por section, containers...`
