@@ -13,16 +13,13 @@
 ***
 # <img src="https://media.giphy.com/media/XwcRflO9HD0Sk6RaRM/giphy.gif" align="center" height="25" width="55"> Venho aqui apresentar<img src="https://media.giphy.com/media/LmqitTYGsNMiWu3VWO/giphy.gif" align="center" width="65">
 
-# My new Portfolio
-   
-<br>
-   
----
-# <div align="center">
-   
-# <img src="https://media.giphy.com/media/9TFBxN300KpCUI6sBD/giphy.gif" align="center" height="95" width="95"> 
+# My new Portfolio    
 
-### [Clique aqui para acessar o Projeto](https://portifolio-rafarz76dev.netlify.app/)
+<div align="center">
+   
+<img src="https://media.giphy.com/media/9TFBxN300KpCUI6sBD/giphy.gif" align="center" height="45" width="45"> 
+
+### [Clique aqui para e venha interagir com my new (```Portfolio```) ](https://portifolio-rafarz76dev.netlify.app/)
 
  
 ***
